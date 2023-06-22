@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-    <image src="https://giphy.com/embed/x8I4MxjjpwBNfYccbj" width="480" height="201" frameBorder="0" class="giphy-embed" allowFullScreen></image>
+    <image src="https://giphy.com/embed/x8I4MxjjpwBNfYccbj" width="480" height="201" ></image>
     <h1 align="center">Hi dude 👋, I'm Lil Moab</h1>
     <h3 align="center">I am a student of Telecommunications Engineering, and I am passionate about technology and programming. I love rock and video games. Thanks for getting here.<h3>
 </div>
