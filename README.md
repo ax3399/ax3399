@@ -9,7 +9,7 @@
 <div id="budgets" align="center"></div>
 
 
-- 🔭 I’m currently studying for a bachelor degree in Universidad Nacional de San Agustin de Arequipa
+- 🔭 I’m currently studying for a bachelor degree in Universidad Nacional de San Agustin de Arequipa 🇵🇪
 - 🌱 I’m currently learning Backend Development in Oracle One G5 program
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
